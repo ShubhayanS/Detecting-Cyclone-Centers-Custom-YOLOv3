@@ -69,7 +69,7 @@ for img_path in images_path:
             color = colors[class_ids[i]]
             cv2.rectangle(img, (x, y), (x + w, y + h), color, 2)
             mid_x=int(x+w/2)
-            mid_y =int(x+h/2)
+            mid_y =int(y+h/2)
             cv2.putText(img, ".", (mid_x, mid_y), font, 3, color, 2)
 
 
