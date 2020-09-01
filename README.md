@@ -52,4 +52,4 @@ The study lacks training in a wide variety of datasets. The work can be added fo
 
 ## Contributor:
 
-* [Shubhayan S](https://www.google.com)
+* [Shubhayan S](mailto: shubhayan1998@gmail.com)
