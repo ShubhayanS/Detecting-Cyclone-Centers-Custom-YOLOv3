@@ -1,10 +1,13 @@
 # Detecting-Cyclone-Centers-Custom-YOLOv3
 
+This is a part of research work under National Aerospace Labs, Bangalore and CSIR under the chief scientist of Electromagnetics and Aerospace.
+Fork and Star this repository and feel free to contribute to it.
+
 ## How to run? :runner:
 
     • Clone the repository and go to the folder with terminal. 
     • Install OpenCV by typing " pip install -r requirements.txt " in Terminal. 
-    • Download last weight from Google Drive Link (https://drive.google.com/drive/folders/1YaiyzmHb3_gJu2T_W2XRA2gmZhtR3Mxz?usp=sharing) and save it in yolo_custom_detection (P.S - Github has size limit of 100MB to upload files)
+    • Download last weight from [Google Drive Link](https://drive.google.com/drive/folders/1YaiyzmHb3_gJu2T_W2XRA2gmZhtR3Mxz?usp=sharing) and save it in yolo_custom_detection (P.S - Github has size limit of 100MB to upload files)
     • Run the ML model to detect hurricane center by typing python_object_detection.py
     • You can retrain for different dataset just you have to prepare datapoints for Yolov3 by installing LabelImg and running the Train_YoloV3.ipynb and also storing the dataset in your drive.
 
@@ -47,3 +50,6 @@ Output of the AI model is the exact location of the longitude and latitude of th
 ## Future perspectives:
 The study lacks training in a wide variety of datasets. The work can be added for visualization and we can also predict the cyclone direction and also increasing accuracy by training over wide variety of cyclone data.
 
+## Contributor:
+
+* [Shubhayan S](https://www.google.com)
